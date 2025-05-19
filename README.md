@@ -1,6 +1,6 @@
 Project Name => MAP
 
-Program Description => This app gives a general map of the globe.
+Program Description => This App Gives a general map of the globe.
 
 Programming Language => Python
 
